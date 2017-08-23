@@ -1,0 +1,304 @@
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\roslyn\csc.exe
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\roslyn\vbc.exe
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Vidly.dll.config
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Vidly.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Vidly.pdb
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\AutoMapper.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\EntityFramework.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Newtonsoft.Json.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Owin.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Swashbuckle.Core.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.Helpers.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.Http.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.Mvc.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.Optimization.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.Razor.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.WebPages.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\WebActivatorEx.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\WebGrease.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\AutoMapper.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.Http.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.Helpers.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.Mvc.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.Optimization.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.Razor.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.WebPages.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Newtonsoft.Json.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\EntityFramework.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Panda.csprojResolveAssemblyReference.cache
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipeTypes.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationToCustomerName.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.NameFix.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenre.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenre1.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.FillGeners.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.FillMovie.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddForignKeyMovie.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddForignKeyMovieAndMore.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.ChangeMovie1.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.ChangeCustomersToCustomers.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Panda.csproj.GenerateResource.Cache
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\roslyn\csc.exe
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\roslyn\vbc.exe
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\roslyn\VBCSCompiler.exe
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Vidly.dll.config
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Vidly.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Vidly.pdb
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\AutoMapper.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\EntityFramework.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Microsoft.Owin.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Microsoft.Owin.Security.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Newtonsoft.Json.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Owin.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Swashbuckle.Core.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\System.Net.Http.Formatting.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\System.Web.Helpers.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\System.Web.Http.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\System.Web.Http.WebHost.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\System.Web.Mvc.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\System.Web.Optimization.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\System.Web.Razor.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\System.Web.WebPages.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\WebActivatorEx.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\WebGrease.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\AutoMapper.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\System.Net.Http.Formatting.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\System.Web.Http.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\System.Web.Http.WebHost.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\System.Web.Helpers.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\System.Web.Mvc.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\System.Web.Optimization.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\System.Web.Razor.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\System.Web.WebPages.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Antlr3.Runtime.pdb
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Newtonsoft.Json.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\EntityFramework.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Microsoft.Owin.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Microsoft.Owin.Security.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\obj\Debug\Panda.csprojResolveAssemblyReference.cache
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipeTypes.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationToCustomerName.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.NameFix.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.AddGenre.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.AddGenre1.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.FillGeners.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.FillMovie.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.AddForignKeyMovie.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.AddForignKeyMovieAndMore.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.ChangeMovie1.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.ChangeCustomersToCustomers.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\obj\Debug\Panda.csproj.GenerateResource.Cache
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\obj\Debug\Vidly.dll
+C:\Users\Navid\Documents\Visual Studio 2015\Projects\Panda\Vidly\obj\Debug\Vidly.pdb
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\roslyn\csc.exe
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\roslyn\vbc.exe
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\roslyn\VBCSCompiler.exe
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\AutoMapper.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\EntityFramework.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Microsoft.Owin.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Microsoft.Owin.Security.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Newtonsoft.Json.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Owin.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Swashbuckle.Core.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\System.Net.Http.Formatting.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\System.Web.Helpers.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\System.Web.Http.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\System.Web.Http.WebHost.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\System.Web.Mvc.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\System.Web.Optimization.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\System.Web.Razor.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\System.Web.WebPages.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\WebActivatorEx.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\WebGrease.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\AutoMapper.xml
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\System.Net.Http.Formatting.xml
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\System.Web.Http.xml
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\System.Web.Http.WebHost.xml
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\System.Web.Helpers.xml
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\System.Web.Mvc.xml
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\System.Web.Optimization.xml
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\System.Web.Razor.xml
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\System.Web.WebPages.xml
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Antlr3.Runtime.pdb
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Newtonsoft.Json.xml
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\EntityFramework.xml
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Microsoft.Owin.xml
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Microsoft.Owin.Security.xml
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\obj\Debug\Panda.csprojResolveAssemblyReference.cache
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipeTypes.resources
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationToCustomerName.resources
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.NameFix.resources
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.AddGenre.resources
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.AddGenre1.resources
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.FillGeners.resources
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.FillMovie.resources
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.AddForignKeyMovie.resources
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.AddForignKeyMovieAndMore.resources
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.ChangeMovie1.resources
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.ChangeCustomersToCustomers.resources
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\obj\Debug\Panda.csproj.GenerateResource.Cache
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\obj\Debug\Panda.csproj.CoreCompileInputs.cache
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Panda.dll.config
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Panda.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\bin\Panda.pdb
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\obj\Debug\Panda.dll
+C:\Users\Navid\Dropbox\Projects\Panda\Vidly\obj\Debug\Panda.pdb

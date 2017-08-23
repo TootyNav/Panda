@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Vidly.Models.Movie>
+
+@{
+    ViewBag.Title = "Movies";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Movies</h2>
+<p>
+     @Html.ActionLink("New Movie", "New", "Movies", new { @class = "btn btn-primary" })
+    
+</p>
+<div style="float: right">
+    @using (Html.BeginForm())
+    {
+        <p>
+            Title: @Html.TextBox("SearchString")
+            <input type="submit" value="Filter" class="btn-group-sm btn-danger" />
+        </p>
+    }
+    
+</div>
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Movie</th>
+            <th>Genre</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var movie in Model)
+        {
+            <tr>
+                <td>@Html.ActionLink(movie.Name, "Edit", "Movies", new { Id = movie.Id}, null)</td>
+                <td>@movie.Genres.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>
